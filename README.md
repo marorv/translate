@@ -1,6 +1,6 @@
 1:  This program will be given a word to translate to English, and a language to translate from. It will use en.wiktionary.org's sites.
 
-I.e.: "translate chat French" should print 
+E.g.: "translate chat French" should print 
 
 "chien m (plural chiens, feminine chienne)
 
