@@ -3,6 +3,8 @@
 word=$1
 language=$2
 
+word=$(echo $word | awk '{print tolower($0)}')
+
 language=$(echo $language | awk '{print tolower($0)}')
 language=$(echo $language | sed 's/.*/\u&/')
 
