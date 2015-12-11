@@ -1,6 +1,12 @@
 from sys import stdin
 import re
 
+def url_of_page(data):
+    url_base = 'https://en.wiktionary.org'
+    url = data[data.index('href="') + 6 : data.index('" title')]
+    
+    print(url_base + url)
+
 lines = []
 for str in stdin:
     lines.append(str)
@@ -17,7 +23,7 @@ found = False
 for element in lines:
     if indicator.strip() == element.strip():
         found = True
-        print("Found a page")
+        url_of_page(element)
         break
 if found == False:
     print("Did not find a page") 
