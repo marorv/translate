@@ -12,6 +12,10 @@ curl "https://en.wiktionary.org/w/index.php?title=Special%3ASearch&profile=defau
 echo "$word" >> wiktionary-search.txt
 echo "$language" >> wiktionary-search.txt
 
+python3.4 find_page.py < wiktionary-search.txt
+
+
+
 else
 
 echo "Lacking variables. Please specify a word and a language."

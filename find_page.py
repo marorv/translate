@@ -14,8 +14,6 @@ for str in stdin:
 word = lines[-2].strip()
 language = lines[-1].strip()
 
-print(word, language)
-
 indicator = '<strong>There is a page named "<a href="/wiki/' + word + '" title="' + word + '">' + word + '</a>" on this wiki.</strong> See also the other search results found.</p>'
 
 found = False
