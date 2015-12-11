@@ -7,6 +7,8 @@ if [ ! -z "$1" ] && [ ! -z "$2" ]; then
 
 echo "Translate $1 from $2 to English"
 
+curl "https://en.wiktionary.org/w/index.php?title=Special%3ASearch&profile=default&search=$word&fulltext=Search" > wiktionary-search.txt
+
 else
 
 echo "Lacking variables. Please specify a word and a language."

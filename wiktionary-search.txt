@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Search results for "chien" - Wiktionary</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Special:Search","wgTitle":"Search","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Search","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wiktionary","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"searchTerm":"chien","wgCirrusStartTime":1449842010.6565,"wgCirrusEndTime":1449842010.6759,"wgCirrusElasticTime":16,"wgIsSearchResultPage":true}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.special.search","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.uls.init","ext.uls.interface","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.BlockInfo%2CCodeLinks%2CDocTabs%2CJavascriptHeadings%2CLegacyScripts%2CRevdelInfo%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cmediawiki.helplink%2CsectionAnchor%2Cspecial%2Cui%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special.search%7Cmediawiki.ui.button%2Cinput%7Cskins.vector.styles&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.8" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png" />
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wiktionary.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=chien&amp;fulltext=Search" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.8/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Search page-Special_Search skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Searching" target="_blank" class="mw-helplink">Help</a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Search results</h1>
+									<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><form id="search" method="get" action="/w/index.php"><div id="mw-search-top-table"><input type="hidden" value="Special:Search" name="title" /><input type="hidden" value="default" name="profile" />
+<input id="searchText" size="50" class="mw-ui-input mw-ui-input-inline" type="search" value="chien" name="search" />
+<input type="hidden" value="Search" name="fulltext" />
+<input class="mw-ui-button mw-ui-progressive" type="submit" value="Search" />
+<div class="results-info">Results <strong>1 - 20</strong> of <strong>502</strong></div><div style="clear:both"></div></div><div class="mw-search-profile-tabs"><div class="search-types"><ul><li class="current"><a href="/w/index.php?title=Special:Search&amp;search=chien&amp;fulltext=Search&amp;profile=default" title="Search in (Main)">Content pages</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=chien&amp;fulltext=Search&amp;profile=images" title="Search for files">Multimedia</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=chien&amp;fulltext=Search&amp;profile=threads" title="Search threaded discussions and talk pages">Discussions</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=chien&amp;fulltext=Search&amp;profile=all" title="Search all of content (including talk pages)">Everything</a></li><li class="normal"><a href="/w/index.php?title=Special:Search&amp;search=chien&amp;fulltext=Search&amp;profile=advanced" title="Search in custom namespaces">Advanced</a></li></ul></div><div style="clear:both"></div></div></form><div class='searchresults'><p class="mw-search-exists">
+<strong>There is a page named "<a href="/wiki/chien" title="chien">chien</a>" on this wiki.</strong> See also the other search results found.</p>
+<ul class='mw-search-results'>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien" title="chien" data-serp-pos="1"><span class="searchmatch">chien</span></a>    </div> <div class='searchresult'><span class="searchmatch">chiên</span>, <span class="searchmatch">chiến</span>, and <span class="searchmatch">chiền</span>    From Old French, from Latin canis, from Proto-Indo-European *ḱwn-i-, derived from *ḱwṓ.  IPA(key): [ʃjɛ̃], [ʃjæ̃]    <span class="searchmatch">chien</span> m</div>
+<div class='mw-search-result-data'>3 KB (105 words) - 20:17, 9 November 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chi%E1%BA%BFn" title="chiến" data-serp-pos="2"><span class="searchmatch">chiến</span></a>    </div> <div class='searchresult'>See also: <span class="searchmatch">chien</span>, <span class="searchmatch">chiên</span>, and <span class="searchmatch">chiền</span>    Sino-Vietnamese, from 戰  (Hà Nội) IPA (key): /ṯɕiɜn˧ˀ˦/ (Huế) IPA (key): /ṯɕiɜŋ˦˥/ (Hồ Chí Minh City) IPA (key):</div>
+<div class='mw-search-result-data'>385 bytes (38 words) - 21:15, 27 October 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_de_garde" title="chien de garde" data-serp-pos="3"><span class="searchmatch">chien</span> de garde</a>    </div> <div class='searchresult'><span class="searchmatch">chien</span> de garde m ‎(plural <span class="searchmatch">chiens</span> de garde) A guard dog.</div>
+<div class='mw-search-result-data'>241 bytes (11 words) - 17:34, 24 January 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/nom_d%27un_chien" title="nom d'un chien" data-serp-pos="4">nom d'un <span class="searchmatch">chien</span></a>    </div> <div class='searchresult'>nom d'un <span class="searchmatch">chien</span> Synonym of nom de Dieu</div>
+<div class='mw-search-result-data'>129 bytes (8 words) - 10:22, 1 October 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/entre_chien_et_loup" title="entre chien et loup" data-serp-pos="5">entre <span class="searchmatch">chien</span> et loup</a>    </div> <div class='searchresult'>(found in 2nd century CE texts), found in French in the 18th century.  entre <span class="searchmatch">chien</span> et loup (literally) between a dog and a wolf. (by extension, idiomatic)</div>
+<div class='mw-search-result-data'>1 KB (121 words) - 14:31, 28 August 2013</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_de_chasse" title="chien de chasse" data-serp-pos="6"><span class="searchmatch">chien</span> de chasse</a>    </div> <div class='searchresult'><span class="searchmatch">chien</span> de chasse m ‎(plural <span class="searchmatch">chiens</span> de chasse) A hound, canine breed used for hunting  chasser chasseur m</div>
+<div class='mw-search-result-data'>290 bytes (18 words) - 22:47, 13 August 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_chaud" title="chien chaud" data-serp-pos="7"><span class="searchmatch">chien</span> chaud</a>    </div> <div class='searchresult'><span class="searchmatch">chien</span> +‎ chaud, calque of English hot dog.  <span class="searchmatch">chien</span> chaud m ‎(plural <span class="searchmatch">chiens</span> chauds) (Quebec) hot dog</div>
+<div class='mw-search-result-data'>243 bytes (16 words) - 17:33, 24 January 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/en_chien_de_fusil" title="en chien de fusil" data-serp-pos="8">en <span class="searchmatch">chien</span> de fusil</a>    </div> <div class='searchresult'>en <span class="searchmatch">chien</span> de fusil (idiomatic) curled up</div>
+<div class='mw-search-result-data'>147 bytes (7 words) - 14:29, 28 August 2013</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_de_prairie" title="chien de prairie" data-serp-pos="9"><span class="searchmatch">chien</span> de prairie</a>    </div> <div class='searchresult'>French Wikipedia has an article on: <span class="searchmatch">chien</span> de prairie   Wikipedia fr       <span class="searchmatch">chien</span> de prairie m ‎(plural <span class="searchmatch">chiens</span> de prairie, feminine chienne de prairie) prairie</div>
+<div class='mw-search-result-data'>325 bytes (27 words) - 18:50, 20 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chi%E1%BA%BFn_tranh" title="chiến tranh" data-serp-pos="10"><span class="searchmatch">chiến</span> tranh</a>    </div> <div class='searchresult'>ʈɐn˧˥/  <span class="searchmatch">chiến</span> tranh war (conflict involving organized use of arms) <span class="searchmatch">chiến</span> tranh lạnh Cold War   warfare <span class="searchmatch">chiến</span> tranh cục bộ joint warfare  <span class="searchmatch">chiến</span> tranh đặc</div>
+<div class='mw-search-result-data'>813 bytes (53 words) - 15:17, 24 October 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chi%C3%AAn" title="chiên" data-serp-pos="11"><span class="searchmatch">chiên</span></a>    </div> <div class='searchresult'>Khmer ជៀន ‎(<span class="searchmatch">chiĕn</span>), ចៀន ‎(<span class="searchmatch">chiĕn</span>).  <span class="searchmatch">chiên</span> ‎(煎) (chiefly Southern Vietnam) to fry  cơm <span class="searchmatch">chiên</span> (fried rice)  ram rán  Although rán and <span class="searchmatch">chiên</span> are two dialectal</div>
+<div class='mw-search-result-data'>1 KB (82 words) - 18:55, 22 October 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_de_Jean_de_Nivelle" title="chien de Jean de Nivelle" data-serp-pos="12"><span class="searchmatch">chien</span> de Jean de Nivelle</a>    </div> <div class='searchresult'>Nivelle fled to Flanders.  <span class="searchmatch">chien</span> de Jean de Nivelle m (the dog of Jean de Nivelle) a disobedient animal or a person  <span class="searchmatch">chien</span> de Jean de Nivelle at the online</div>
+<div class='mw-search-result-data'>687 bytes (82 words) - 19:34, 20 October 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/c%C6%A1m_chi%C3%AAn" title="cơm chiên" data-serp-pos="13">cơm <span class="searchmatch">chiên</span></a>    </div> <div class='searchresult'>Vietnamese Wikipedia has an article on: cơm <span class="searchmatch">chiên</span>   Wikipedia vi  (Hà Nội) IPA (key): /kəːm˧˧ ṯɕiɜn˧˧/ (Huế) IPA (key): /kəːm˧˧ ṯɕiɜŋ˧˧/ (Hồ Chí Minh</div>
+<div class='mw-search-result-data'>262 bytes (37 words) - 12:59, 7 April 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_d%27eau_portugais" title="chien d'eau portugais" data-serp-pos="14"><span class="searchmatch">chien</span> d'eau portugais</a>    </div> <div class='searchresult'>has an article on: <span class="searchmatch">chien</span> d'eau portugais   Wikipedia fr       IPA(key): /ʃjɛ̃dopɔʁtyɡɛ/  <span class="searchmatch">chien</span> d'eau portugais m ‎(plural <span class="searchmatch">chiens</span> d'eau portugais) Portuguese</div>
+<div class='mw-search-result-data'>415 bytes (25 words) - 17:33, 24 January 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chiens" title="chiens" data-serp-pos="15"><span class="searchmatch">chiens</span></a>    </div> <div class='searchresult'><span class="searchmatch">chiens</span> m plural of <span class="searchmatch">chien</span>  chines niches, nichés</div>
+<div class='mw-search-result-data'>355 bytes (8 words) - 12:52, 9 December 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chien_d%27eau" title="chien d'eau" data-serp-pos="16"><span class="searchmatch">chien</span> d'eau</a>    </div> <div class='searchresult'>IPA(key): /ʃjɛ̃do/  <span class="searchmatch">chien</span> d'eau m ‎(plural <span class="searchmatch">chiens</span> d'eau) water dog</div>
+<div class='mw-search-result-data'>237 bytes (11 words) - 18:30, 20 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/ma%C3%AEtre-chien" title="maître-chien" data-serp-pos="17">maître-<span class="searchmatch">chien</span></a>    </div> <div class='searchresult'>IPA(key): /mɛtʁ ʃjɛ̃/  maître-<span class="searchmatch">chien</span> m ‎(plural maître-<span class="searchmatch">chiens</span>) dog handler  cheminerait</div>
+<div class='mw-search-result-data'>275 bytes (13 words) - 18:57, 20 May 2015</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/comme_un_chien_dans_un_jeu_de_quilles" title="comme un chien dans un jeu de quilles" data-serp-pos="18">comme un <span class="searchmatch">chien</span> dans un jeu de quilles</a>    </div> <div class='searchresult'>un <span class="searchmatch">chien</span> dans un jeu de quilles (&quot;like a dog in a bowling game&quot;) (simile) Very suddenly and incongruously. (simile) also : &quot;Etre reçu comme un <span class="searchmatch">chien</span> dans</div>
+<div class='mw-search-result-data'>558 bytes (58 words) - 18:55, 8 June 2013</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi" title="chiến tranh thế giới" data-serp-pos="19"><span class="searchmatch">chiến</span> tranh thế giới</a>    </div> <div class='searchresult'>ʈɐn˧˥ tʰej˦ˀ˥ jəːj˦ˀ˥/  <span class="searchmatch">chiến</span> tranh thế giới world war  thế <span class="searchmatch">chiến</span> (世戰, &quot;world war&quot;)  <span class="searchmatch">Chiến</span> tranh thế giới thứ hai (World War II) <span class="searchmatch">Chiến</span> tranh thế giới thứ nhất</div>
+<div class='mw-search-result-data'>469 bytes (73 words) - 00:57, 7 December 2014</div></li>
+<li><div class='mw-search-result-heading'><a href="/wiki/s%27entendre_comme_chien_et_chat" title="s'entendre comme chien et chat" data-serp-pos="20">s'entendre comme <span class="searchmatch">chien</span> et chat</a>    </div> <div class='searchresult'>comme <span class="searchmatch">chien</span> et chat (simile) to be in perpetual conflict with each other (simile, uncommon) agree to disagree  see se, entendre  “s'entendre comme <span class="searchmatch">chien</span> et</div>
+<div class='mw-search-result-data'>463 bytes (50 words) - 13:28, 6 June 2014</div></li>
+</ul>
+<div class="visualClear"></div><p class='mw-search-pager-bottom'>View (previous 20  |  <a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=20&amp;profile=default&amp;search=chien" title="Next 20 results" class="mw-nextlink">next 20</a>) (<a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=0&amp;profile=default&amp;search=chien" title="Show 20 results per page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=0&amp;profile=default&amp;search=chien" title="Show 50 results per page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Special:Search&amp;limit=100&amp;offset=0&amp;profile=default&amp;search=chien" title="Show 100 results per page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Special:Search&amp;limit=250&amp;offset=0&amp;profile=default&amp;search=chien" title="Show 250 results per page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Special:Search&amp;limit=500&amp;offset=0&amp;profile=default&amp;search=chien" title="Show 500 results per page" class="mw-numlink">500</a>)</p>
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/wiki/Special:Search">https://en.wiktionary.org/wiki/Special:Search</a>"					</div>
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=profile%3Ddefault%26search%3Dchien%26fulltext%3DSearch&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=profile%3Ddefault%26search%3Dchien%26fulltext%3DSearch" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-special" class="selected"><span><a href="/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=chien&amp;fulltext=Search"  title="This is a special page, and it cannot be edited">Special page</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" value="chien" title="Search Wiktionary [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="/w/index.php?title=Special:Search&amp;profile=default&amp;search=chien&amp;fulltext=Search&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>In other languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wiktionary:About" title="Wiktionary:About">About Wiktionary</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=Special:Search&amp;profile=default&amp;search=chien&amp;fulltext=Search&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.8/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.8/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.8/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.wikimediaEvents.didyoumean","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":129,"wgHostname":"mw1028"}); /* @nomin */
+} );</script>
+	</body>
+</html>
