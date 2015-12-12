@@ -19,6 +19,10 @@ echo "$language" >> wiktionary-search.txt
 
 url_of_word=$(python3.4 find_page.py < wiktionary-search.txt)
 
+if [ "$url_of_word" == "Did not find a page" ]; then
+    echo "$url_of_word"
+else
+
 curl -s $url_of_word > html-of-wiktionary-page.txt
 
 echo "$word" >> html-of-wiktionary-page.txt
@@ -26,7 +30,7 @@ echo "$language" >> html-of-wiktionary-page.txt
 
 python3.4 find_translation.py < html-of-wiktionary-page.txt
 
-
+fi
 
 else
 
